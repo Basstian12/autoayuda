@@ -25,12 +25,14 @@
 
 
     <!-- Encabezado de la página -->
-    <header class="container-fluid bg-acerca text-black p-5 text-center">
-        <div class="row">
-            <div class="col-xl-12 col-md-6">
-                <h1>NUESTOS SERVICIOS</h1>
-                <h2><i class="fas fa-tools"></i>
-                </h2>
+    <header>
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-xl-12 col-md-6 bg-acerca text-black p-2 text-center">
+                    <h1>NUESTOS SERVICIOS</h1>
+                    <h2><i class="fas fa-tools"></i>
+                    </h2>
+                </div>
             </div>
         </div>
     </header>
@@ -81,9 +83,7 @@
 
     ?>
 
-    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.3/dist/umd/popper.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
 </body>
 
 </html>
